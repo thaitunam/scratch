@@ -11,13 +11,13 @@ import extensionIcon from '../components/action-menu/icon--sprite.svg';
 
 const messages = defineMessages({
     extensionTitle: {
-        defaultMessage: 'Choose an Extension',
-        description: 'Heading for the extension library',
+        defaultMessage: 'Choose an Extension.',
+        description: 'Heading for the extension library.',
         id: 'gui.extensionLibrary.chooseAnExtension'
     },
     extensionUrl: {
-        defaultMessage: 'Enter the URL of the extension',
-        description: 'Prompt for unoffical extension url',
+        defaultMessage: 'Enter the URL of the extension:',
+        description: 'Prompt for unoffical extension url.',
         id: 'gui.extensionLibrary.extensionUrl'
     }
 });
