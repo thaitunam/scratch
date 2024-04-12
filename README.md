@@ -1,4 +1,4 @@
-# E羊icques&mdash;An unofficial Scratch mod
+# E羊icques&mdash;An unofficial Scratch mod.
 
 The mod is available at https://sheeptester.github.io/scratch-gui/.
 
